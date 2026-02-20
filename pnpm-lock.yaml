@@ -32,15 +32,42 @@ importers:
       better-sqlite3:
         specifier: ^12.6.2
         version: 12.6.2
+      debug:
+        specifier: ^4.4.0
+        version: 4.4.3
       nuxt:
         specifier: ^4.3.1
         version: 4.3.1(@parcel/watcher@2.5.6)(@types/node@25.2.3)(@vue/compiler-sfc@3.5.28)(better-sqlite3@12.6.2)(cac@6.7.14)(db0@0.3.4(better-sqlite3@12.6.2))(eslint@10.0.0(jiti@2.6.1))(ioredis@5.9.3)(lightningcss@1.31.1)(magicast@0.5.2)(optionator@0.9.4)(rollup@4.57.1)(terser@5.46.0)(typescript@5.9.3)(vite@7.3.1(@types/node@25.2.3)(jiti@2.6.1)(lightningcss@1.31.1)(terser@5.46.0)(yaml@2.8.2))(vue-tsc@3.2.4(typescript@5.9.3))(yaml@2.8.2)
       nuxt-og-image:
         specifier: ^5.1.13
         version: 5.1.13(@unhead/vue@2.1.4(vue@3.5.28(typescript@5.9.3)))(magicast@0.5.2)(unstorage@1.17.4(db0@0.3.4(better-sqlite3@12.6.2))(ioredis@5.9.3))(vite@7.3.1(@types/node@25.2.3)(jiti@2.6.1)(lightningcss@1.31.1)(terser@5.46.0)(yaml@2.8.2))(vue@3.5.28(typescript@5.9.3))
+      parse5:
+        specifier: ^7.2.1
+        version: 7.3.0
+      rehype-raw:
+        specifier: ^7.0.0
+        version: 7.0.0
+      remark-emoji:
+        specifier: ^5.0.1
+        version: 5.0.2
+      remark-gfm:
+        specifier: ^4.0.0
+        version: 4.0.1
+      remark-mdc:
+        specifier: ^3.5.0
+        version: 3.10.0
+      remark-rehype:
+        specifier: ^11.1.1
+        version: 11.1.2
       tailwindcss:
         specifier: ^4.1.18
         version: 4.1.18
+      unified:
+        specifier: ^11.0.5
+        version: 11.0.5
+      unist-util-visit:
+        specifier: ^5.0.0
+        version: 5.1.0
       zod:
         specifier: ^4.3.6
         version: 4.3.6
