@@ -46,7 +46,7 @@ function onSubmit() {
 <template>
   <USeparator
     icon="i-lucide-mail"
-    class="h-px"
+    class="h-px text-[var(--color-brand-cyan)]"
   />
 
   <UFooter :ui="{ top: 'border-b border-default' }">

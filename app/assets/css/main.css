@@ -17,11 +17,21 @@
   --color-green-800: #016538;
   --color-green-900: #0A5331;
   --color-green-950: #052E16;
+
+  /* Sumio brand colors */
+  --color-brand-deep: #0a1628;
+  --color-brand-blue: #1a3a8f;
+  --color-brand-amber: #f5a623;
+  --color-brand-amber-hover: #e6950f;
+  --color-brand-cyan: #00c8e0;
+  --color-brand-cyan-muted: #00c8e033;
+  --color-brand-surface: #080f1e;
+  --color-brand-surface-alt: #0d1a3a;
 }
 
 .dark {
-  --ui-bg: var(--ui-color-neutral-950);
-  --ui-bg-muted: var(--ui-color-neutral-900);
-  --ui-bg-elevated: var(--ui-color-neutral-900);
-  --ui-bg-accented: var(--ui-color-neutral-800);
+  --ui-bg: var(--color-brand-deep);
+  --ui-bg-muted: var(--color-brand-surface);
+  --ui-bg-elevated: var(--color-brand-surface-alt);
+  --ui-bg-accented: #132040;
 }

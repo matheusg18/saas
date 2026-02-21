@@ -140,7 +140,9 @@ cta:
     - label: Start for free
       to: /signup
       trailingIcon: i-lucide-arrow-right
+      color: amber
     - label: See pricing
       to: /pricing
-      variant: subtle
+      variant: outline
       icon: i-lucide-credit-card
+      color: neutral
