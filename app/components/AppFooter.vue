@@ -4,11 +4,7 @@ const columns = [{
   children: [{
     label: 'Help center'
   }, {
-    label: 'Docs'
-  }, {
     label: 'Roadmap'
-  }, {
-    label: 'Changelog'
   }]
 }, {
   label: 'Features',
@@ -29,8 +25,6 @@ const columns = [{
     label: 'Pricing'
   }, {
     label: 'Careers'
-  }, {
-    label: 'Blog'
   }]
 }]
 
