@@ -51,7 +51,7 @@ function onSubmit() {
 
 <template>
   <USeparator
-    icon="i-simple-icons-nuxtdotjs"
+    icon="i-lucide-mail"
     class="h-px"
   />
 
@@ -90,7 +90,7 @@ function onSubmit() {
 
     <template #left>
       <p class="text-muted text-sm">
-        Built with Nuxt UI • © {{ new Date().getFullYear() }}
+        Sumio • © {{ new Date().getFullYear() }}
       </p>
     </template>
 
